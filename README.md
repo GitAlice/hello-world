@@ -1,15 +1,5 @@
 # hello-world
 Welcome to git
-
-//Try edit code
-#include<iostream.h>
-struct Student
-{
-   char name[10];
-   char score[4];
-   int average;
-};
-
 void main()
 {  
    int i,sum=0;
